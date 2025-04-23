@@ -13,7 +13,7 @@
 - 🌱 Learning & exploring **DevOps pipelines**, **cloud-native applications**, and **real-world ML projects**.
 - 🔍 Passionate about clean architecture, automation, and performance optimization.
 - 🛠️ Tech Stack: `Java`, `Go`, `Vert.x`, `Docker`, `Kubernetes`, `React`, `PostgreSQL`
-- 📫 Email me at: **rkhmehta2000@gmail.com**
+- 📫 Email me at: **rajm267747@gmail.com**
 - 🌐 Portfolio: [raj_portfolio](https://rkhmehta.github.io/raj_portfolio/)
 - 📄 [View My Resume](https://rkhmehta.github.io/raj_portfolio/assets/download/Resume_Raj_Mehta.pdf)
 
@@ -24,6 +24,6 @@
 ```txt
 Backend Development   : Java, Go, Vert.x, Spring Boot
 Frontend Frameworks   : React.js, HTML5, CSS3, Tailwind
-DevOps & Cloud        : Docker, Kubernetes, GitHub Actions, Nginx, AWS (Basics)
+DevOps & Cloud        : Docker,GitHub Actions,AWS (Basics)
 Databases             : PostgreSQL, MySQL, MongoDB
-Tools & Practices     : CI/CD, RESTful APIs, Microservices, Agile/Scrum
+Tools & Practices     : RESTful APIs, Microservices, Agile/Scrum

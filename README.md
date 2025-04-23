@@ -9,8 +9,8 @@
 
 <table>
   <tr>
-    <td width="55%">
-      
+    <td width="60%">
+
 ### 💫 About Me
 
 - 💻 I’m currently building **log parsing & system monitoring tools** using **Vert.x**, **Java**, and **Kubernetes**.  

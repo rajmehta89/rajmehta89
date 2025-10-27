@@ -50,9 +50,9 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-mehta-88a396241/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://rkhmehta.github.io/raj_portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://drive.google.com/file/d/1XPY2N3cgpAK7x01fmS2BdEJDvZtlC6D3/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajm267747@gmail.com)
 
-### 📄 [View My Resume](https://rkhmehta.github.io/raj_portfolio/assets/download/Resume_Raj_Mehta.pdf)
+### 📄 [View My Resume](https://drive.google.com/file/d/1XPY2N3cgpAK7x01fmS2BdEJDvZtlC6D3/view?usp=sharing)

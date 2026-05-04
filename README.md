@@ -1,47 +1,62 @@
-<!-- Copy this file into your GitHub profile repository (username/username) as README.md -->
+<!-- Drop this file into your GitHub profile repo (rkhmehta/rkhmehta) as README.md -->
+<!-- Replace the avatar URL on line ~28 with your hosted avatar (e.g. upload assets/avatar-rm.png to the repo and link it). -->
 
 <div align="center">
 
-<table>
-<tr>
-<td width="52%" valign="top">
-
-### Raj Mehta
-
-**Software developer · AI/ML systems · Production engineering**
+<a href="https://rajmehta.dev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EF4FF,100:A78BFA&height=180&section=header&text=Raj%20Mehta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20developer%20%C2%B7%20AI%2FML%20systems%20%C2%B7%20Production%20engineering&descAlignY=62&descSize=16&animation=fadeIn" alt="Raj Mehta" />
+</a>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2EF4FF&center=true&vCenter=true&width=440&height=50&lines=Full-stack+product+delivery;AI+SaaS+%26+GPT-integrated+apps;Backend+at+scale+%28Java%2C+Go%29;Cloud-native+%26+Kubernetes;Reliability+%26+observability" alt="Typing animation" />
-
-</td>
-<td width="48%" align="center" valign="middle">
-
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="220" alt="Raj Mehta" />
-
-<br />
-
-<sub>Replace the image URL above with your own avatar or a square headshot for best results.</sub>
-
-</td>
-</tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/rajmehta.dev-0D1117?style=for-the-badge&logo=firefox&logoColor=2EF4FF)](https://rajmehta.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-mehta-88a396241/)
+[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/file/d/1XPY2N3cgpAK7x01fmS2BdEJDvZtlC6D3/view?usp=sharing)
+[![Email](https://img.shields.io/badge/hello@rajmehta.dev-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hello@rajmehta.dev)
 
 </div>
 
 ---
 
-## About
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- **Building:** High-throughput log parsing, system monitoring, and operational tooling with **Vert.x**, **Java**, and **Kubernetes** — plus **AI SaaS**, **GPT-based products**, and **Next.js / Node** delivery when the problem calls for it.
-- **Sharpening:** Cloud-native architecture, production ML workflows, and hardening paths from prototype to something you can run under load.
-- **Collaborating:** Backend platforms, observability, and applied AI — especially where clear interfaces and measurable reliability matter.
-- **Useful on:** Microservices boundaries, Java performance, Kubernetes rollout strategy, and shipping a first production cut without painting yourself into a corner.
-- **Operating from:** Ahmedabad, India · **Contact:** [hello@rajmehta.dev](mailto:hello@rajmehta.dev)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2EF4FF&width=520&height=46&lines=Building+reliable+systems+for+messy+production+realities.;Full-stack+delivery+%E2%80%94+prototype+to+prod+under+load.;AI+SaaS+%C2%B7+GPT-integrated+apps+%C2%B7+Java%2FGo+at+scale.;Cloud-native%2C+observable%2C+measurable+%E2%80%94+by+default." alt="Tagline" />
+
+### `// about`
+
+```ts
+const raj = {
+  building:   "high-throughput log parsing, system monitoring, ops tooling",
+  stack:      ["Vert.x", "Java", "Kubernetes"],
+  also:       "AI SaaS, GPT-integrated products, Next.js / Node",
+  sharpening: "cloud-native arch, production ML, prod-hardening paths",
+  useful_on:  "microservice boundaries, JVM perf, k8s rollouts, first-prod cuts",
+  based_in:   "Ahmedabad, India",   // IST (UTC+5:30)
+  contact:    "hello@rajmehta.dev",
+};
+
+export default raj;
+```
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<!-- Replace this URL with your own avatar (upload assets/avatar-rm.png to the repo and reference it like: ./assets/avatar-rm.png) -->
+<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="220" alt="Raj Mehta" style="border-radius: 16px;" />
+
+<br /><br />
+
+<sub>📍 **Ahmedabad, IN** &nbsp;·&nbsp; 🟢 open to collaboration</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Stack
+## `01 ▸ Stack`
 
 **Languages & runtimes**
 
@@ -52,7 +67,7 @@
 
 **Frameworks & platforms**
 
-![Vert.x](https://img.shields.io/badge/Vert.x-782A90?style=for-the-badge&logoColor=white)
+![Vert.x](https://img.shields.io/badge/Vert.x-0D1117?style=for-the-badge&logoColor=A78BFA&color=0D1117&labelColor=0D1117)
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
@@ -71,24 +86,60 @@
 
 ---
 
-## GitHub
+## `02 ▸ GitHub`
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=rkhmehta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=2EF4FF&icon_color=2EF4FF" alt="GitHub stats" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhmehta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2EF4FF" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rkhmehta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=2EF4FF&icon_color=2EF4FF&bg_color=0D1117&text_color=e6edf3" alt="GitHub stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=rkhmehta&theme=tokyonight&hide_border=true&background=0D1117&ring=2EF4FF&fire=A78BFA&currStreakLabel=2EF4FF" alt="Streak" />
+
+<br />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhmehta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2EF4FF&bg_color=0D1117&text_color=e6edf3" alt="Top languages" />
+<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=rkhmehta&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EF4FF&line=A78BFA&point=2EF4FF&area=true&area_color=2EF4FF" alt="Activity graph" />
 
 </div>
 
 ---
 
-## Links
+## `03 ▸ Pinned`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-mehta-88a396241/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=2EF4FF)](https://rajmehta.dev)
-[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/file/d/1XPY2N3cgpAK7x01fmS2BdEJDvZtlC6D3/view?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hello@rajmehta.dev)
+<a href="https://github.com/rkhmehta/logstream-vertx">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=logstream-vertx&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EF4FF&icon_color=2EF4FF&text_color=e6edf3" alt="logstream-vertx" />
+</a>
+<a href="https://github.com/rkhmehta/k8s-ops-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=k8s-ops-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=e6edf3" alt="k8s-ops-toolkit" />
+</a>
+<a href="https://github.com/rkhmehta/gpt-saas-starter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=gpt-saas-starter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=e6edf3" alt="gpt-saas-starter" />
+</a>
+<a href="https://github.com/rkhmehta/spring-perf-lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=spring-perf-lab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB923C&icon_color=FB923C&text_color=e6edf3" alt="spring-perf-lab" />
+</a>
+
+</div>
+
+> **Note** — pinned repos above are placeholders. Replace the `repo=` query strings with your real repository slugs (or delete cards you don't have yet).
+
+---
+
+## `04 ▸ Useful on`
+
+- **Microservice boundaries** — drawing the right seams the first time, not the third.
+- **JVM performance** — finding the hot loop, the contention, the GC tax.
+- **Kubernetes rollouts** — strategies that don't page you at 3am.
+- **First production cuts** — shipping a real version 1 without painting yourself into a corner.
+
+---
+
+<div align="center">
+
+<sub>`README.md` · last updated **May 2026** · made with caffeine &amp; <code>kubectl</code></sub>
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=rkhmehta&label=Profile%20views&color=2EF4FF&style=flat-square)
 
 </div>

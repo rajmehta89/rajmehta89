@@ -1,145 +1,138 @@
-<!-- Drop this file into your GitHub profile repo (rkhmehta/rkhmehta) as README.md -->
-<!-- Replace the avatar URL on line ~28 with your hosted avatar (e.g. upload assets/avatar-rm.png to the repo and link it). -->
+# BuildRaj
 
-<div align="center">
+![Website](https://img.shields.io/badge/Website-buildraj.com-111827?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Live-16a34a?style=for-the-badge)
+![Made with](https://img.shields.io/badge/Made%20with-Care-f97316?style=for-the-badge)
 
-<a href="https://rajmehta.dev">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EF4FF,100:A78BFA&height=180&section=header&text=Raj%20Mehta&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Software%20developer%20%C2%B7%20AI%2FML%20systems%20%C2%B7%20Production%20engineering&descAlignY=62&descSize=16&animation=fadeIn" alt="Raj Mehta" />
-</a>
+> Official website for **BuildRaj**: a clean, fast, and professional web presence built to present the brand, services, work, and contact details in a polished way.
 
-<br />
+## Overview
 
-[![Portfolio](https://img.shields.io/badge/rajmehta.dev-0D1117?style=for-the-badge&logo=firefox&logoColor=2EF4FF)](https://rajmehta.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-mehta-88a396241/)
-[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://drive.google.com/file/d/1XPY2N3cgpAK7x01fmS2BdEJDvZtlC6D3/view?usp=sharing)
-[![Email](https://img.shields.io/badge/hello@rajmehta.dev-111827?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hello@rajmehta.dev)
+**BuildRaj** is designed as a modern website focused on clarity, trust, and conversion. It gives visitors a direct way to understand what the brand offers, view key information, and take action through a simple contact flow.
 
-</div>
+Live site: **https://buildraj.com**
 
----
+## Highlights
 
-<table>
-<tr>
-<td width="58%" valign="top">
+- Professional landing experience for the BuildRaj brand
+- Responsive layout for desktop, tablet, and mobile screens
+- Clear service or business positioning
+- Fast-loading pages with simple navigation
+- Contact-focused structure for leads and enquiries
+- GitHub-friendly project setup and documentation
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2EF4FF&width=520&height=46&lines=Building+reliable+systems+for+messy+production+realities.;Full-stack+delivery+%E2%80%94+prototype+to+prod+under+load.;AI+SaaS+%C2%B7+GPT-integrated+apps+%C2%B7+Java%2FGo+at+scale.;Cloud-native%2C+observable%2C+measurable+%E2%80%94+by+default." alt="Tagline" />
+## Preview
 
-### `// about`
+Add screenshots here after uploading them to the repository:
 
-```ts
-const raj = {
-  building:   "high-throughput log parsing, system monitoring, ops tooling",
-  stack:      ["Vert.x", "Java", "Kubernetes"],
-  also:       "AI SaaS, GPT-integrated products, Next.js / Node",
-  sharpening: "cloud-native arch, production ML, prod-hardening paths",
-  useful_on:  "microservice boundaries, JVM perf, k8s rollouts, first-prod cuts",
-  based_in:   "Ahmedabad, India",   // IST (UTC+5:30)
-  contact:    "hello@rajmehta.dev",
-};
-
-export default raj;
+```md
+![BuildRaj Home](./screenshots/home.png)
+![BuildRaj Mobile View](./screenshots/mobile.png)
 ```
 
-</td>
-<td width="42%" align="center" valign="middle">
+## Tech Stack
 
-<!-- Replace this URL with your own avatar (upload assets/avatar-rm.png to the repo and reference it like: ./assets/avatar-rm.png) -->
-<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="220" alt="Raj Mehta" style="border-radius: 16px;" />
+Update this section to match your actual project:
 
-<br /><br />
+- **Frontend:** HTML, CSS, JavaScript
+- **Framework:** React / Next.js / Vite / plain static site
+- **Styling:** CSS / Tailwind CSS / custom design system
+- **Hosting:** Vercel / Netlify / GitHub Pages / custom hosting
+- **Domain:** buildraj.com
 
-<sub>📍 **Ahmedabad, IN** &nbsp;·&nbsp; 🟢 open to collaboration</sub>
+## Project Structure
 
-</td>
-</tr>
-</table>
+```text
+.
++-- public/
++-- src/
++-- assets/
++-- README.md
+`-- package.json
+```
 
----
+Adjust this tree if your project uses a different structure.
 
-## `01 ▸ Stack`
+## Getting Started
 
-**Languages & runtimes**
+Clone the repository:
 
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+cd YOUR-REPOSITORY
+```
 
-**Frameworks & platforms**
+Install dependencies:
 
-![Vert.x](https://img.shields.io/badge/Vert.x-0D1117?style=for-the-badge&logoColor=A78BFA&color=0D1117&labelColor=0D1117)
-![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+```bash
+npm install
+```
 
-**DevOps & cloud**
+Run locally:
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+```bash
+npm run dev
+```
 
-**Data**
+Build for production:
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+```bash
+npm run build
+```
 
----
+## Environment Variables
 
-## `02 ▸ GitHub`
+If the site uses forms, analytics, CMS data, or email services, create a `.env` file and add the required keys:
 
-<div align="center">
+```env
+CONTACT_EMAIL=
+NEXT_PUBLIC_SITE_URL=https://buildraj.com
+```
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rkhmehta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=2EF4FF&icon_color=2EF4FF&bg_color=0D1117&text_color=e6edf3" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=rkhmehta&theme=tokyonight&hide_border=true&background=0D1117&ring=2EF4FF&fire=A78BFA&currStreakLabel=2EF4FF" alt="Streak" />
+Do not commit private API keys or secrets.
 
-<br />
+## Deployment
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkhmehta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2EF4FF&bg_color=0D1117&text_color=e6edf3" alt="Top languages" />
-<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=rkhmehta&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2EF4FF&line=A78BFA&point=2EF4FF&area=true&area_color=2EF4FF" alt="Activity graph" />
+The site can be deployed on any modern static or frontend hosting platform.
 
-</div>
+Recommended options:
 
----
+- Vercel
+- Netlify
+- GitHub Pages
+- Cloudflare Pages
 
-## `03 ▸ Pinned`
+After deployment, connect the custom domain:
 
-<div align="center">
+```text
+buildraj.com
+www.buildraj.com
+```
 
-<a href="https://github.com/rkhmehta/logstream-vertx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=logstream-vertx&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EF4FF&icon_color=2EF4FF&text_color=e6edf3" alt="logstream-vertx" />
-</a>
-<a href="https://github.com/rkhmehta/k8s-ops-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=k8s-ops-toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=e6edf3" alt="k8s-ops-toolkit" />
-</a>
-<a href="https://github.com/rkhmehta/gpt-saas-starter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=gpt-saas-starter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=34D399&text_color=e6edf3" alt="gpt-saas-starter" />
-</a>
-<a href="https://github.com/rkhmehta/spring-perf-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rkhmehta&repo=spring-perf-lab&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FB923C&icon_color=FB923C&text_color=e6edf3" alt="spring-perf-lab" />
-</a>
+## SEO Checklist
 
-</div>
+- Add a strong title and meta description
+- Use one clear `h1` per page
+- Add Open Graph image for social sharing
+- Include favicon and brand icon files
+- Submit sitemap to Google Search Console
+- Add descriptive alt text for important images
 
-> **Note** — pinned repos above are placeholders. Replace the `repo=` query strings with your real repository slugs (or delete cards you don't have yet).
+## Roadmap
 
----
+- Add real project screenshots
+- Add services or portfolio details
+- Add enquiry/contact form integration
+- Add analytics
+- Improve SEO metadata
+- Add automated deployment workflow
 
-## `04 ▸ Useful on`
+## Contact
 
-- **Microservice boundaries** — drawing the right seams the first time, not the third.
-- **JVM performance** — finding the hot loop, the contention, the GC tax.
-- **Kubernetes rollouts** — strategies that don't page you at 3am.
-- **First production cuts** — shipping a real version 1 without painting yourself into a corner.
+Website: **https://buildraj.com**
 
----
+For enquiries, add your preferred email, phone number, or social links here.
 
-<div align="center">
+## License
 
-<sub>`README.md` · last updated **May 2026** · made with caffeine &amp; <code>kubectl</code></sub>
-
-<br />
-
-![Profile views](https://komarev.com/ghpvc/?username=rkhmehta&label=Profile%20views&color=2EF4FF&style=flat-square)
-
-</div>
+All rights reserved unless a separate license file is added.

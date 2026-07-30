@@ -13,9 +13,9 @@
 I build **AI agents, Voice AI systems, intelligent automations, and scalable full-stack applications** that connect with real business operations.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-BuildRaj-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://buildraj.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](YOUR_UPWORK_PROFILE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/rajm60)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-mehta-88a396241/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajm267747@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+views&color=2563EB&style=flat-square)
 ![Available](https://img.shields.io/badge/Available_for-Remote_Projects-22C55E?style=flat-square)
@@ -275,14 +275,6 @@ My engineering priorities:
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajmehta89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="Raj's GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmehta89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Raj's most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rajmehta89&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=38BDF8" alt="Raj's GitHub contribution streak"/>
 
 <br/><br/>
 

@@ -276,17 +276,17 @@ My engineering priorities:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="Raj's GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajmehta89&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=FFFFFF&rank_icon=github" alt="Raj's GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Raj's most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=38BDF8" alt="Raj's GitHub contribution streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajmehta89&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&langs_count=8" alt="Raj's most used languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Raj's GitHub activity graph"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=rajmehta89&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F97316&currStreakLabel=38BDF8" alt="Raj's GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rajmehta89&bg_color=0D1117&color=38BDF8&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Raj's GitHub activity graph"/>
 
 </div>
 
